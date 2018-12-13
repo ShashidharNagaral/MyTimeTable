@@ -1,0 +1,219 @@
+{
+  "week": {
+    "monday": {
+      "class": [
+        {
+          "starttime": "08:00 AM",
+          "endtime": "09:00 AM",
+          "classroom": "B201",
+          "subject": "Advanced Data Structure",
+          "teacher": "Aniket Katade Sir"
+        },
+        {
+          "starttime": "09:00 AM",
+          "endtime": "10:00 AM",
+          "classroom": "B201",
+          "subject": "Computer Networks",
+          "teacher": "Nitin Sakare Sir"
+        },{
+          "starttime": "10:00 AM",
+          "endtime": "10:15 AM",
+          "classroom": "Break",
+          "subject": "",
+          "teacher": ""
+        },
+        {
+          "starttime": "10:15 AM",
+          "endtime": "11:15 AM",
+          "classroom": "B202",
+          "subject": "ISEE",
+          "teacher": "Sachin Sakhare Sir"
+        },
+        {
+          "starttime": "11:15 AM",
+          "endtime": "12:15 PM",
+          "classroom": "B202",
+          "subject": "SEPM",
+          "teacher": "Fatima Inaamdaar Ma'am"
+        }
+      ]
+    },
+    "tuesday": {
+      "class": [{
+        "starttime": "08:00 AM",
+        "endtime": "09:00 AM",
+        "classroom": "B201",
+        "subject": "Advanced Data Structure",
+        "teacher": "Aniket Katade Sir"
+      },
+        {
+          "starttime": "09:00 AM",
+          "endtime": "10:00 AM",
+          "classroom": "B201",
+          "subject": "Computer Networks",
+          "teacher": "Nitin Sakare Sir"
+        },{
+          "starttime": "10:00 AM",
+          "endtime": "10:15 AM",
+          "classroom": "Break",
+          "subject": "",
+          "teacher": ""
+        },
+        {
+          "starttime": "10:15 AM",
+          "endtime": "11:15 AM",
+          "classroom": "B201",
+          "subject": "TOC",
+          "teacher": "Shweta Tiwaskar Ma'am"
+        },
+        {
+          "starttime": "11:15 AM",
+          "endtime": "12:15 PM",
+          "classroom": "B201",
+          "subject": "Computer Networks",
+          "teacher": "Nitin Sakare Sir"
+        }]
+    },
+    "wednesday": {
+      "class": [
+        {
+          "starttime": "08:00 AM",
+          "endtime": "09:00 AM",
+          "classroom": "B202",
+          "subject": "TOC",
+          "teacher": "Shweta Tiwaskar Ma'am"
+        },
+        {
+          "starttime": "09:00 AM",
+          "endtime": "10:00 AM",
+          "classroom": "B201",
+          "subject": "Computer Networks",
+          "teacher": "Nitin Sakare Sir"
+        },{
+          "starttime": "10:00 AM",
+          "endtime": "10:15 AM",
+          "classroom": "Break",
+          "subject": "",
+          "teacher": ""
+        },
+        {
+          "starttime": "10:15 AM",
+          "endtime": "11:15 AM",
+          "classroom": "B201",
+          "subject": "Advanced Data Structure",
+          "teacher": "Aniket Katade Sir"
+        },
+        {
+          "starttime": "11:15 AM",
+          "endtime": "12:15 PM",
+          "classroom": "B201",
+          "subject": "SEPM",
+          "teacher": "Fatima Inaamdaar"
+        }
+      ]
+    },
+    "thursday": {
+      "class": [{
+        "starttime": "08:00 AM",
+        "endtime": "09:00 AM",
+        "classroom": "No Lectures",
+        "subject": "",
+        "teacher": ""
+      },
+        {
+          "starttime": "09:00 AM",
+          "endtime": "10:00 AM",
+          "classroom": "B201",
+          "subject": "Computer Networks",
+          "teacher": "Nitin Sakare Sir"
+        },{
+          "starttime": "10:00 AM",
+          "endtime": "10:15 AM",
+          "classroom": "Break",
+          "subject": "",
+          "teacher": ""
+        },
+        {
+          "starttime": "10:15 AM",
+          "endtime": "11:15 AM",
+          "classroom": "B201",
+          "subject": "Advanced Data Structure",
+          "teacher": "Aniket Katade Sir"
+        },
+        {
+          "starttime": "11:15 AM",
+          "endtime": "12:15 PM",
+          "classroom": "B201",
+          "subject": "Computer Networks",
+          "teacher": "Nitin Sakare Sir"
+        }
+      ]
+    },
+    "friday": {
+      "class": [
+        {
+          "starttime": "08:00 AM",
+          "endtime": "09:00 AM",
+          "classroom": "B202",
+          "subject": "TOC",
+          "teacher": "Shweta Tiwaskar Ma'am"
+        },
+        {
+          "starttime": "09:00 AM",
+          "endtime": "10:00 AM",
+          "classroom": "B201",
+          "subject": "Computer Networks",
+          "teacher": "Nitin Sakare Sir"
+        },{
+          "starttime": "10:00 AM",
+          "endtime": "10:15 AM",
+          "classroom": "Break",
+          "subject": "",
+          "teacher": ""
+        },
+        {
+          "starttime": "10:15 AM",
+          "endtime": "11:15 AM",
+          "classroom": "B201",
+          "subject": "Advanced Data Structure",
+          "teacher": "Aniket Katade Sir"
+        },
+        {
+          "starttime": "11:15 AM",
+          "endtime": "12:15 PM",
+          "classroom": "B201",
+          "subject": "SEPM",
+          "teacher": "Fatima Inaamdaar"
+        }
+      ]
+    },
+    "saturday": {
+      "class": [{
+        "starttime": "08:00 AM",
+        "endtime": "09:00 AM",
+        "classroom": "B201",
+        "subject": "Theory of Computation",
+        "teacher": "ABC"
+      },{
+        "starttime": "09:00 AM",
+        "endtime": "10:00 AM",
+        "classroom": "B202",
+        "subject": "Computer Networks",
+        "teacher": "Nitin Sakare Sir"
+      },{
+        "starttime": "10:00 AM",
+        "endtime": "10:15 AM",
+        "classroom": "Break",
+        "subject": "",
+        "teacher": ""
+      },{
+        "starttime": "10:15 AM",
+        "endtime": "12:15 PM",
+        "classroom": "B201",
+        "subject": "Soft Skill",
+        "teacher": "Sandeep Katarekar"
+      }]
+    },
+    "sunday": null
+  }
+}
